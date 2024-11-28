@@ -1,0 +1,31 @@
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Environments
+venv/
+env/
+*.env
+
+# Distribuição e pacotes
+*.egg
+*.egg-info
+dist/
+build/
+*.tar.gz
+
+# Arquivos de configuração do IDE
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Arquivos de logs
+*.log
+
+# Arquivos de banco de dados
+*.sqlite3
+*.db
+
+# Arquivos de backup
+*~
