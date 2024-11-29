@@ -1,5 +1,6 @@
 # Assistente de Priorização de Tarefas
 
+Feito por Felipe Teodoro, RA: 22405458
 Este projeto é um sistema assistente de priorização de tarefas, desenvolvido para ajudar na organização e aumento de produtividade dos usuários. Ele permite cadastrar tarefas, gerenciar suas prioridades automaticamente e enviar notificações de lembretes.
 
 ## Funcionalidades
