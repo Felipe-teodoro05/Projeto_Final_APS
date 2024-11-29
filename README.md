@@ -16,7 +16,11 @@ Este projeto é um sistema assistente de priorização de tarefas, desenvolvido 
 ### Pré-requisitos
 - [Python](https://www.python.org/)
 - Banco de dados MySQL.
-
+- Instalar o CrewAi por meio do seguinte comando:
+- ```bash
+  pip install crewai
+  ```
+  
 ### Passos para rodar localmente
 
 1. Clone o repositório:
