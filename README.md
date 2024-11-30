@@ -27,7 +27,7 @@ Este projeto é um sistema assistente de priorização de tarefas, desenvolvido 
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/Felipe-teodoro05/Projeto_Final_APS/edit/master/README.md
+    git clone https://github.com/Felipe-teodoro05/Projeto_Final_APS.git
     ```
 
 2. Navegue até o diretório do projeto:
