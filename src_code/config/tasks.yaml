@@ -1,0 +1,13 @@
+prioritization_task:
+  description: >
+    Analise todas as tarefas:{tasks} fornecidas e sugira uma lista ordenada por prioridade, levando em consideração os critérios de urgência, importância e impacto para o usuário.
+  expected_output: >
+    Uma lista com as tarefas em ordem de prioridade, acompanhadas de uma breve justificativa para cada decisão.
+  agent: prioritization_assistant
+
+task_analysis_task:
+  description: >
+    Revise as tarefas fornecidas e classifique-as com base em fatores como prazo, complexidade e impacto potencial e por fim retorne um ranking em forma de lista das tarefas..
+  expected_output: >
+    Uma classificação detalhada das tarefas com pontuações ou níveis atribuídos para cada critério relevante.
+  agent: task_analyzer

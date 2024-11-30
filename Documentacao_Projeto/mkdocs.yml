@@ -1,0 +1,11 @@
+site_name: Assistente de Tarefas
+nav:
+- Home: index.md
+- Requisitos Funcionais: Requisitos_Funcionais.md
+- Requisitos Não Funcionais: Requisitos_Nao_Funcionais.md
+- Diagramas de Caso de Uso: Diagrama de caso de uso.md
+- Diagrama de Sequência: Sequencia.md
+- Diagrama de Pacotes: Pacote.md
+- Diagrama de Classes: Classe.md
+- Diagrama de Objeto: Objeto.md
+- Plano inicial de Implementação: Plano.md
