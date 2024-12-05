@@ -33,7 +33,7 @@ Este projeto é um sistema assistente de priorização de tarefas, desenvolvido 
 2. Navegue até o diretório do projeto:
 
     ```bash
-    cd assistente-priorizacao-tarefas
+    cd Projeto_Final_APS
     ```
 
 
